@@ -1,4 +1,4 @@
-lat: 24.8608
-long: 67.0104
+lat: 40.7128
+long: -74.0060
 IP: 127.0.0.1
-User agent :Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+User agent :Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
